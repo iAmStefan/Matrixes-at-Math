@@ -1,0 +1,40 @@
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\bin\Debug\Atestat-Matematica.exe.config
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\bin\Debug\Atestat-Matematica.exe
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\bin\Debug\Atestat-Matematica.pdb
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.csprojAssemblyReference.cache
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Properties.Resources.resources
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.csproj.GenerateResource.cache
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.exe
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.pdb
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Autentificare_elev.resources
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Inregistrare_elev.resources
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Start.resources
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Platforma.resources
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\bin\Debug\Interop.AcroPDFLib.dll
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Interop.AcroPDFLib.dll
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.csproj.ResolveComReference.cache
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Lectii.resources
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Testare.resources
+D:\Proiecte\Development\C#\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.csproj.CoreCompileInputs.cache
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\bin\Debug\Atestat-Matematica.exe.config
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\bin\Debug\Atestat-Matematica.exe
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\bin\Debug\Atestat-Matematica.pdb
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\bin\Debug\Interop.AcroPDFLib.dll
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.csprojAssemblyReference.cache
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Interop.AcroPDFLib.dll
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.csproj.ResolveComReference.cache
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Autentificare_elev.resources
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Lectii.resources
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Platforma.resources
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Start.resources
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Inregistrare_elev.resources
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Properties.Resources.resources
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat_Matematica.Testare.resources
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.csproj.GenerateResource.cache
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.csproj.CoreCompileInputs.cache
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.exe
+D:\Atestate terminate\Atestat-Matematica\Atestat-Matematica\obj\Debug\Atestat-Matematica.pdb
